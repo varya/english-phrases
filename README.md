@@ -3,3 +3,7 @@
 ## Addition
 
 * From another angle
+
+## Workabulary
+
+* impromptu events
