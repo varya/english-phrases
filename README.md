@@ -7,3 +7,5 @@
 ## Workabulary
 
 * impromptu events
+* induce unnecessary rework
+* discrepancy
